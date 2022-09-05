@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "092ac999-4357-4efb-afeb-843181bae88f": {
+      "ProjectGuid": "092ac999-4357-4efb-afeb-843181bae88f",
+      "DisplayName": "VehicleProject",
+      "ColorIndex": 0
+    },
+    "8170421b-f8ce-4981-a041-a4bbb0a7048e": {
+      "ProjectGuid": "8170421b-f8ce-4981-a041-a4bbb0a7048e",
+      "DisplayName": "VehicleProject.Core",
+      "ColorIndex": 1
+    },
+    "f5525a4e-2a77-45e8-ad85-3e6d86da9262": {
+      "ProjectGuid": "f5525a4e-2a77-45e8-ad85-3e6d86da9262",
+      "DisplayName": "VehicleProject.Service",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "30e9affe-ece1-427c-8b71-3dbdee269508": {
+      "ProjectGuid": "30e9affe-ece1-427c-8b71-3dbdee269508",
+      "DisplayName": "VehicleProject.Data",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

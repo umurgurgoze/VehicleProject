@@ -1,0 +1,17 @@
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\VehicleProject.Data.deps.json
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\VehicleProject.Data.runtimeconfig.json
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\VehicleProject.Data.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\ref\VehicleProject.Data.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\VehicleProject.Data.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\VehicleProject.Core.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\bin\Debug\net6.0\VehicleProject.Core.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.csproj.AssemblyReference.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.AssemblyInfoInputs.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.AssemblyInfo.cs
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.csproj.CoreCompileInputs.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.csproj.CopyComplete
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\ref\VehicleProject.Data.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Data\obj\Debug\net6.0\VehicleProject.Data.genruntimeconfig.cache

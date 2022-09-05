@@ -1,0 +1,12 @@
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\bin\Debug\net6.0\VehicleProject.Core.deps.json
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\bin\Debug\net6.0\VehicleProject.Core.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\bin\Debug\net6.0\ref\VehicleProject.Core.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\bin\Debug\net6.0\VehicleProject.Core.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.csproj.AssemblyReference.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.AssemblyInfoInputs.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.AssemblyInfo.cs
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.csproj.CoreCompileInputs.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\ref\VehicleProject.Core.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Core\obj\Debug\net6.0\VehicleProject.Core.pdb

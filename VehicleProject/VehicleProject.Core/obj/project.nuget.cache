@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bneo+GxiwLJdWsq9yBkoIuxAtimkx/KBhYFHQJiQbHWqsWwic2WQTbMLY+93bsAqbKBPdtBMUWJSPIfCAwg7+w==",
+  "success": true,
+  "projectFilePath": "C:\\TrainingProjects\\VehicleProject\\VehicleProject\\VehicleProject.Core\\VehicleProject.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umurg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

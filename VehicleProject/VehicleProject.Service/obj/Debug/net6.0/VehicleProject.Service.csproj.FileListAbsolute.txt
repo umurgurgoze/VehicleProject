@@ -1,0 +1,17 @@
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.csproj.AssemblyReference.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.AssemblyInfoInputs.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.AssemblyInfo.cs
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.csproj.CoreCompileInputs.cache
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Service.deps.json
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Service.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\ref\VehicleProject.Service.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Service.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Core.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Core.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.csproj.CopyComplete
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\ref\VehicleProject.Service.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\obj\Debug\net6.0\VehicleProject.Service.pdb
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Data.dll
+C:\TrainingProjects\VehicleProject\VehicleProject\VehicleProject.Service\bin\Debug\net6.0\VehicleProject.Data.pdb
